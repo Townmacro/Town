@@ -1,0 +1,15 @@
+﻿  源.cpp
+D:\git\code\寒假大作战04-口算生成器（含答案）\源.cpp(9,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\git\code\寒假大作战04-口算生成器（含答案）\源.cpp(8,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\git\code\寒假大作战04-口算生成器（含答案）\源.cpp(28,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\git\code\寒假大作战04-口算生成器（含答案）\源.cpp(27,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\git\code\寒假大作战04-口算生成器（含答案）\源.cpp(47,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\git\code\寒假大作战04-口算生成器（含答案）\源.cpp(46,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\git\code\寒假大作战04-口算生成器（含答案）\源.cpp(174,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\git\code\寒假大作战04-口算生成器（含答案）\源.cpp(207,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  寒假大作战04-口算生成器（含答案）.vcxproj -> D:\git\code\寒假大作战04-口算生成器（含答案）\Debug\寒假大作战04-口算生成器（含答案）.exe
