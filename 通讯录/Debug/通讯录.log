@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\git\code\通讯录\源.cpp(84,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\git\code\通讯录\源.cpp(86,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\git\code\通讯录\源.cpp(133,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\git\code\通讯录\源.cpp(166,23): warning C4018: “<=”: 有符号/无符号不匹配
+  通讯录.vcxproj -> D:\git\code\通讯录\Debug\通讯录.exe
