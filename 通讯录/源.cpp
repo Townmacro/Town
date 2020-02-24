@@ -119,6 +119,7 @@ void add()
 	if (remaining_space == 0)
 	{
 		printf("通讯录已满\n");
+		_getch();
 	}
 	else if (flag != 0)
 	{
@@ -167,8 +168,7 @@ void delete_()
 	{
 		if (n == S[i].number)
 		{
-			//memset(&S[n], 0, sizeof(MyStruct));   //结构体数据某一组信息删除
-			for (size_t j = 0; j < 49; j++)
+			for (size_t j = i; j < 49; j++)
 			{
 				S[j] = S[j + 1];
 			}
@@ -219,5 +219,6 @@ void modify()
 			printf("此处无数据");
 			_getch();
 		}
+
 	}
 }
