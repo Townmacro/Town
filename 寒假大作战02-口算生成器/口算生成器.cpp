@@ -1,4 +1,5 @@
 #include<stdio.h>
+<<<<<<< HEAD
 #include<stdlib.h>
 
 void First_grade_problem()                                            //一年级题目
@@ -66,16 +67,43 @@ void Third_grade_problem()     //三年级函数
 }
 
 void menu()            //菜单函数
+=======
+
+void First_grade_problem()
+{
+	printf("现在是一年级题目：\n执行完了（学习使你快乐\n\n");
+}
+
+void Second_grade_problem()
+{
+	printf("现在是二年级题目：\n执行完了（学习使你快乐\n\n");
+}
+
+void Third_grade_problem()
+{
+	printf("现在是三年级题目：\n执行完了（学习使你快乐？\n\n");
+}
+
+void menu()
+>>>>>>> new code
 {
 	printf("操作列表：\n1）一年级    2)二年级    3)三年级\n4)帮助      5)退出程序\n");
 }
 
+<<<<<<< HEAD
 void help()           //帮助列表
+=======
+void help()
+>>>>>>> new code
 {
 	printf("帮助信息\n您需要输入命令代号来进行操作, 且\n一年级题目为不超过十位的加减法;\n二年级题目为不超过百位的乘除法;\n三年级题目为不超过百位的加减乘除混合题目.\n\n");
 }
 
+<<<<<<< HEAD
 void error()          //输入值错误
+=======
+void error()
+>>>>>>> new code
 {
 	printf("Error!!!\n错误操作指令, 请重新输入\n\n");
 }
@@ -90,17 +118,26 @@ int main()
 		switch (choose)
 		{
 		case 1:
+<<<<<<< HEAD
 			printf("\n\n现在是一年级题目：\n请输入生成个数>");
+=======
+>>>>>>> new code
 			First_grade_problem();
 			menu();
 			break;
 		case 2:
+<<<<<<< HEAD
 			printf("\n\n现在是二年级题目：\n请输入生成个数>");
+=======
+>>>>>>> new code
 			Second_grade_problem();
 			menu();
 			break;
 		case 3:
+<<<<<<< HEAD
 			printf("\n\n现在是三年级题目：\n请输入生成个数>");
+=======
+>>>>>>> new code
 			Third_grade_problem();
 			menu();
 			break;
