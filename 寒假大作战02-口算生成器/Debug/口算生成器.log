@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> new code
 ﻿  口算生成器.cpp
 D:\git\code\寒假大作战02-口算生成器\口算生成器.cpp(9,23): warning C4018: “<”: 有符号/无符号不匹配
 D:\git\code\寒假大作战02-口算生成器\口算生成器.cpp(8,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
@@ -14,6 +17,9 @@ C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): 
 D:\git\code\寒假大作战02-口算生成器\口算生成器.cpp(120,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
   口算生成器.vcxproj -> D:\git\code\寒假大作战02-口算生成器\Debug\口算生成器.exe
+<<<<<<< HEAD
 =======
 ﻿  口算生成器.vcxproj -> D:\git\code\20199401\寒假大作战02-口算生成器\Debug\口算生成器.exe
+>>>>>>> new code
+=======
 >>>>>>> new code
